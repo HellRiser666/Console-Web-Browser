@@ -48,7 +48,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ConectorController\ConnectorController.cs" />
-    <Compile Include="ConectorController\Teste.cs" />
     <Compile Include="MainProgram.cs" />
     <Compile Include="ConnectorModel\UrlResultModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
